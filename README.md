@@ -1,11 +1,11 @@
 # Autonomous-Hovercraft
-Hovercraft project that was designed to autonomously navigate a maze. The system directly interfaces with onboard sensors and other hardware components over UART and I/O driven inteerrupts. The main goal of the project was to complete a course without human input.
+Hovercraft project that was designed to autonomously navigate a maze. The system directly interfaces with onboard sensors and other hardware components over UART and I/O driven inteerrupts. The main goal of the project was to complete a course without human input. 
 
 Team of 5, placing 3rd out of about 30 teams.
 
 
 ## Overview
-The hovercraft uses low level embedded programming with real time sensor input to make autonomous navigation decisions. Scored not only upon completion but also on efficiency and simplicity so as to add realistic constraints. Every added component or external library came at the cost of points favouring simplitistic and lean code.
+The hovercraft uses low level embedded programming with real time sensor input to make autonomous navigation decisions. Scored not only upon completion but also on efficiency and simplicity so as to add realistic constraints. Every added component or external library came at the cost of points favouring simplitistic and lean code. Code base was written in C++.
 
 ## Theory
 | Component | Description |
